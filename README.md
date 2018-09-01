@@ -1,7 +1,10 @@
-# Compute-Dirichlet-Problem
+# Solving Partial Differential Equation
 
-## This project solves discrete dirichelet problem using numerical approximation given the boundaries and the 
-discrete probability distibution of each event. 
+https://en.wikipedia.org/wiki/Dirichlet_problem
+
+This project solves discrete dirichelet problem using numerical approximation given the boundaries and the discrete probability distibution of each event. 
+
+
 
 The resulit is shown below:
 ![alt text](https://github.com/MagicGary/Compute-Dirichlet-Problem/blob/master/distribution_result.PNG)
